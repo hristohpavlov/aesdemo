@@ -4,7 +4,7 @@ package miniaesdemo;
  * <p>This class generates a random 16-bit key and stores it inside of a local variable. It provides a
  * straightforward way to access the randomKey variable (<b><u>{@link #getRandomKey()}</u></b> and <b><u>{@link #getRandomKeyString()}</u></b>).</p>
  *
- * @author Team Caligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 0.5
  */
