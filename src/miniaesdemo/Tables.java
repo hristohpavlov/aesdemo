@@ -32,7 +32,7 @@ import java.util.Map;
  *  <li><b><u>{@link #getMUL14Value(int)}</u></b></li>
  * </ol>
  * 
- * @author Team Caligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 0.1
  */
