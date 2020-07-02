@@ -9,7 +9,7 @@ import static miniaesdemo.Utilities.printLogo;
 /**
  * <p>Class used to test the Mini-AES</p>
  *
- * @author Team Caligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 0.1
  */
@@ -156,8 +156,6 @@ public class MiniAESDemo {
     }
 
     public static void cliMenu() {
-        printLogo();
-
         System.out.println(" 1. Encrypt a binary string.\n"
                 + " 2. Encrypt binary string with random key.\n"
                 + " 3. Decrypt a binary string\n"
