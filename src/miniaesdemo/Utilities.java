@@ -3,7 +3,7 @@ package miniaesdemo;
 /**
  * <p>This class contains helper methods used in the MiniAES calculations.</p>
  *
- * @author Team Caligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 0.1
  */
@@ -288,15 +288,4 @@ public class Utilities {
     /**
      * <p>This method displays Team Caligula's ascii logo. Crafted by Petar Baltov.</p>
      */
-    public static void printLogo() {
-        System.out.println(""
-                + "   _______                         _____        _  _                _        \n"
-                + "  |__   __|                       / ____|      | |(_)              | |       \n"
-                + "     | |  ___   __ _  _ __ ___   | |      __ _ | | _   __ _  _   _ | |  __ _ \n"
-                + "     | | / _ \\ / _` || '_ ` _ \\  | |     / _` || || | / _` || | | || | / _` |\n"
-                + "     | ||  __/| (_| || | | | | | | |____| (_| || || || (_| || |_| || || (_| |\n"
-                + "     |_| \\___| \\__,_||_| |_| |_|  \\_____|\\__,_||_||_| \\__, | \\__,_||_| \\__,_|\n"
-                + "                                                       __/ |                 \n"
-                + "                                                      |___/                  ");
-    }
 }
