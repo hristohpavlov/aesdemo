@@ -5,7 +5,7 @@ package miniaesdemo;
 /**
  * <p>This class generates and stores encryption keys. It provides a straightforward way to access the keys (<b><u>{@link #getKey0()}, {@link #getKey1()}, {@link #getKey2()}</u></b> methods).</p>
  *
- * @author Team Caligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 0.1
  */
