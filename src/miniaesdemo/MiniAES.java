@@ -5,7 +5,7 @@ import javafx.util.Pair;
 /**
  * <p>This class implements all of the necessary steps to encrypt and decrypt strings with the Mini AES algorithm.</p>
  * 
- * @author Team Caligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 0.1
  */
