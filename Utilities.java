@@ -3,7 +3,7 @@ package miniaesdemo;
 /**
  * <p>This class contains helper methods used in the MiniAES calculations.</p>
  *
- * @author Team Caligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 0.1
  */
