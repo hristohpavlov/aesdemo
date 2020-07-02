@@ -31,7 +31,7 @@ import javafx.stage.Stage;
 
 /**
  * <p> Graphical User Interface </p>
- * @author Team Calligula
+ * @author Hristo Pavlov
  * @version 1.0
  * @since 02.04.2019
  */
